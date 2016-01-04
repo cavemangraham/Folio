@@ -59,11 +59,27 @@ sitemap: false
 }
 
 .content {
-  width: 390px ;
+  width: 350px ;
   margin-left: auto ;
   margin-right: auto ;
 }
 
 .home-title {
 	color: #f07652;
+}
+
+html, body {
+  overflow-x: hidden;
+}
+
+.full-width-borders {
+  /* also subtract section padding (1.5rem) */
+  margin: 0 -601.5rem;
+  /* add back section padding (1.5rem) */
+  padding: 0.25rem 1.5rem;
+  background: #f07652;
+  /* border has to be solid, not RGBa */
+  /* 9600px or equiv (600rem = 9600/16) */
+  border-left: 600rem #f07652;
+  border-right: 600rem #f07652;
 }
