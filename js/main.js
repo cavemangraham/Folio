@@ -14,9 +14,8 @@ var quotes = [
   "gadget geek",
   "netflix binger",
   "batman impersonator",
-  "runescape veteran",
+  "arrow to the knee survivor",
   "time traveller",
-  "outlander",
   "rails fanboy",
   ];
         
