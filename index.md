@@ -14,7 +14,7 @@ title: "Welcome"
 	<h1 class="home-title" style="font-size:760%; line-height:45px; margin-top:30px; margin-bottom:50px;"><a class="home-title" href="/about" style="text-decoration: none">SEAN</a></h1>
 	<div style="float: left;"> Just another&nbsp;</div>
 	<div style="font-weight:bold;" id="textslide">rails fanboy</div>
-	from the East Coast who loves Buff Chick pizza <br>
+	from the East Coast who loves pineapple pizza <br>
 	and the feeling of clean socks. <br>
 	<p>
 		<div style="font-size:150%;" class="wrapper">

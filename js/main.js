@@ -4,10 +4,15 @@
 
 // Word slider
 var quotes = [
-  "programmer",
+  "pragmatic programmer",
   "stud muffin",
+  "dungeon master",
   "ninja in training",
+  "pokemon trainer",
   "gadget geek",
+  "netflix binger",
+  "batman impersonator",
+  "runescape veteran",
   "time traveller",
   ];
         
@@ -19,4 +24,4 @@ var quotes = [
          i=0;
       else
           i++;
-      }, 1 * 2000);
+      }, 1 * 1200);
