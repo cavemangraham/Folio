@@ -7,6 +7,8 @@ var quotes = [
   "pragmatic programmer",
   "stud muffin",
   "dungeon master",
+  "browncoat",
+  "movie buff",
   "ninja in training",
   "pokemon trainer",
   "gadget geek",
@@ -14,6 +16,8 @@ var quotes = [
   "batman impersonator",
   "runescape veteran",
   "time traveller",
+  "outlander",
+  "rails fanboy",
   ];
         
   var i = 0;
@@ -24,4 +28,4 @@ var quotes = [
          i=0;
       else
           i++;
-      }, 1 * 1200);
+      }, 1 * 1300);
