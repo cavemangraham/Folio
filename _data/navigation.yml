@@ -1,0 +1,17 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+  excerpt: "winky smiley face"
+
+- title: Code
+  url: /code/
+  excerpt: "machines are my only friends"
+
+- title: Blog
+  url: /blog/
+  excerpt: "my incoherent ramblings"
+
+- title: Contact
+  url: /contact/
+  excerpt: "i'm not lieing about most of this"
